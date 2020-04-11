@@ -1,3 +1,11 @@
 site/
 .DS_Store
 
+# Project dependencies
+.cache
+node_modules
+python_modules
+yarn-error.log
+
+# Build directory
+/public
